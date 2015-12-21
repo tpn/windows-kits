@@ -1,0 +1,1 @@
+dumpbin /exports /linenumbers /imports /relocations /summary /symbols /directives /fpo /linkermember /tls /unwindinfo /rawdata:none kernel32-10.0.10586.0.dll 
